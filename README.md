@@ -1,3 +1,5 @@
+[![MseeP Badge](https://mseep.net/pr/hammeiam-koroko-speech-mcp-badge.jpg)](https://mseep.ai/app/hammeiam-koroko-speech-mcp)
+
 # Speech MCP Server
 
 A Model Context Protocol server that provides text-to-speech capabilities using the Kokoro TTS model.
